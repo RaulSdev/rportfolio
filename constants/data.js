@@ -17,6 +17,22 @@ const userData = {
       link: "https://smartbrain42.herokuapp.com",
       imgUrl: "/smartBrain.png",
     },
+    {
+      title: "Pokemon Card Game ",
+      link: "https://github.com/RaulSdev/reactpoke",
+      imgUrl: "/pokemonreact.png",
+    },
+    {
+      title: "Natours V2 ",
+      link: "https://raulsdev.github.io/natours-v2/",
+      imgUrl: "/natours.png",
+    },
+    {
+      title: "Solo WebPage ",
+      link: "https://raulsdev.github.io/SoloDemo/",
+      imgUrl: "solowebsite.png",
+    },
+    
 
   ],
   about: {
