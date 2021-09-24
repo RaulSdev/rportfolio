@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "raulsdev",
   name: "Raul Samperio",
-  designation: "Full-Stack Developer",
+  designation: "Full-Stack Web Developer",
   avatarUrl: "/avatar.png",
   email: "raulsdev@gmail.com",
   phone: "+52 3310543289",
@@ -10,12 +10,12 @@ const userData = {
     {
       title: "Lights Out",
       link: "https://github.com/RaulSdev/react-lights-out",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/lights_outReact.png",
     },
     {
       title: "Face Recognition App ",
       link: "https://smartbrain42.herokuapp.com",
-      imgUrl: "/placeholdertech.png",
+      imgUrl: "/smartBrain.png",
     },
 
   ],
@@ -53,7 +53,7 @@ const userData = {
     },
     {
       title: "Media Production",
-      company: "Intel Corporation",
+      company: "Think Latino",
       year: "2017-2018",
       companyLink: "",
       desc: "",
