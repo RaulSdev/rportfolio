@@ -8,6 +8,11 @@ const userData = {
   address: 'Guadalajara, Jalisco, Mexico.',
   projects: [
     {
+      title: 'Plibo ',
+      link: 'https://plibo.mx',
+      imgUrl: 'plibo.png',
+    },
+    {
       title: 'Lights Out',
       link: 'https://github.com/RaulSdev/react-lights-out',
       imgUrl: '/lights_outReact.png',
